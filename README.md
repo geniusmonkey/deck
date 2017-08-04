@@ -2,7 +2,7 @@
 
 # Requirements
 - git - [Instructions](https://help.github.com/articles/set-up-git/)
-- java jdk8 - [Instruction](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- java jdk8 - [Instructions](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 ## Running
 The test has been bootstrapped to run JUnit for testing, the code for these test can be found `src/test/java/com/geniusmonkey/cards/DeckTest.java` or [here](https://github.com/geniusmonkey/deck/blob/master/src/test/java/com/geniusmonkey/cards/DeckTest.java). To run the code you simply need to call the gradle wrapper for your system. From the root of the project run one of the following commands from a command line.
